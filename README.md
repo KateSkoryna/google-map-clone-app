@@ -1,4 +1,5 @@
-Mapbox API Integration: Google Maps Clone
+# Mapbox API Integration: Google Maps Clone
+
 This project is a web application that replicates the functionality of Google Maps using HTML, JavaScript, and the Mapbox API.
 
 Features:
