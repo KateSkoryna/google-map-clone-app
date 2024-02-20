@@ -6,12 +6,12 @@
 Map Display: Utilizes the Mapbox API to render an interactive map interface on the webpage.\
 Zoom and Pan: Allows users to zoom in and out and pan across the map to explore different locations.\
 Markers: Supports the addition of markers to specific locations on the map, providing points of interest or indicating important locations.\
-Search Functionality: Integrates search functionality, enabling users to search for specific addresses or landmarks on the map.\
+Search Functionality: Integrates search functionality, enabling users to search for specific addresses or landmarks on the map.
 
 ## Technologies Used:
 HTML: Used for structuring the webpage and defining the basic layout.\
 JavaScript: Implemented to interact with the Mapbox API, handle user interactions, and dynamically update the map.\
-Mapbox API: Integrated to fetch map data and provide map rendering capabilities, including markers and search functionality.\
+Mapbox API: Integrated to fetch map data and provide map rendering capabilities, including markers and search functionality.
 
 ## How to Use:
 Clone the repository to your local machine.\
