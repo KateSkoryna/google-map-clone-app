@@ -1,10 +1,10 @@
-# *Mapbox API Integration: Google Maps Clone*
+# Mapbox API Integration: Google Maps Clone
 
-## **This project is a web application that replicates the functionality of Google Maps using HTML, JavaScript, and the Mapbox API.**
+## This project is a web application that replicates the functionality of Google Maps using HTML, JavaScript, and the Mapbox API.
 
 ## Features:
-Map Display: Utilizes the Mapbox API to render an interactive map interface on the webpage.\
-Zoom and Pan: Allows users to zoom in and out and pan across the map to explore different locations.\
+*Map Display: Utilizes the Mapbox API to render an interactive map interface on the webpage.*\
+**Zoom and Pan: Allows users to zoom in and out and pan across the map to explore different locations.**\
 Markers: Supports the addition of markers to specific locations on the map, providing points of interest or indicating important locations.\
 Search Functionality: Integrates search functionality, enabling users to search for specific addresses or landmarks on the map.
 
